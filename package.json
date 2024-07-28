@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.15.3",
+    "ngrok": "^5.0.0-beta.2",
     "tunnelmole": "^2.2.14"
   }
 }
